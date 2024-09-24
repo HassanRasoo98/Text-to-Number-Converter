@@ -9,10 +9,12 @@ Pretty outdated, right? Still would be beneficial for someone who breaks their m
 Enter command `python inference.py` in the terminal. Enter the message you want to convert. Get results. You must have python 3 installed on your system to run this program.
 
 # Example Usage
+Output of inference.py
 ![Output of inference.py](example_usage.png)
 
 # Note
 This tool does not include support for punctuation marks.
 
 # Next Steps
-It would be wonderful if we could connect the 2 devices such that the generated numbers are sent as inputs directly to the mobile without the user having to type it manually. This would be a good automation project for electronic engineers as well.
+1. GUI frontend.
+2. It would be wonderful if we could connect the 2 devices such that the generated numbers are sent as inputs directly to the mobile without the user having to type it manually. This would be a good automation project for electronic engineers as well.
